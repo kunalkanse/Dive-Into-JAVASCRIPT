@@ -8,7 +8,7 @@ alert("I AM ALERT")
 
 confirm("I  aM CONFIRM")
 
-document.writeln("kunal") 
+document.writeln("kunal")  
 document.write("kanse")
 document.writeln("baramati")
 document.write("kanse")
