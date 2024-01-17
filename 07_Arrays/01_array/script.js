@@ -9,7 +9,7 @@ console.log(a);
 console.log(typeof a);  // Object
 
 console.log();
-
+ 
 console.log(a[0]);  // Hello
 console.log(a[a.length - 1]);   // 100
 
