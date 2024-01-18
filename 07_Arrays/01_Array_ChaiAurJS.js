@@ -16,7 +16,7 @@ console.log(myHeroes);  // [ 'Superman', 'kunal', 'kanse', 'batman' ]
 
 ////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////
-
+ 
 myHeroes.splice(2, 1);   // remove No. of elements specified as 2nd paramater from index no. specified as 1st parameter
 console.log(myHeroes);  // [ 'Superman', 'kunal', 'batman' ]
 
