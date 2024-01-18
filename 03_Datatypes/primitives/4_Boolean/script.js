@@ -8,6 +8,6 @@ let b = false
 console.log(b)
 console.log(typeof b)
 
-// Boolean is javascript primitive dtatype.
+// Boolean is javascript primitive datatype.
 // boolean can hold two values true or false
 // it it used for controlling program from like if, if-else,
