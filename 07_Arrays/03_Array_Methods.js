@@ -16,7 +16,7 @@ console.log(a); // [ 10, 20, 30, 40, 50, 54, 78, 98, 'Hello' ]
 
 let c = a.pop()
 console.log(a); // [ 10, 20, 30, 40, 50, 54, 78, 98]
-
+ 
 let d = a.unshift("Kunal")
 console.log(a); // [ 'Kunal', 10, 20, 30, 40, 50, 54, 78, 98 ]
 
