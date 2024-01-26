@@ -11,7 +11,7 @@ function calcTip(bill) {
 for (let index = 0; index < bills.length; index++) {
     const tip = calcTip(bills[index]);
     tips.push(tip); 
-    total.push(bills[index] + tips[index]); // [ 24, 304.75,  202.4, 528,   44.4, 120.75, 12,   1320,   55.2,59.8]
+    total.push(bills[index] + tips[index]); // [ 24, 304.75,  202.4, 528,   44.4 , 120.75, 12,   1320,   55.2,59.8]
 }
 
 console.log(bills); // [20, 265, 176,  440,37, 105,  10, 1100,46,  52]
