@@ -15,7 +15,7 @@ for (let index = 0; index < kunal.length; index++) {
     console.log('\t', kunal[index], ' => ', typeof kunal[index]);
 }
 
-/*
+/* 
 ____Element other than strings____
          22  =>  number
          [ 'savita', 'sharad' ]  =>  object
