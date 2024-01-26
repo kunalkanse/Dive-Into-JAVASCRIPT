@@ -10,7 +10,7 @@ function calcTip(bill) {
 
 for (let index = 0; index < bills.length; index++) {
     const tip = calcTip(bills[index]);
-    tips.push(tip);
+    tips.push(tip); 
     total.push(bills[index] + tips[index]); // [ 24, 304.75,  202.4, 528,   44.4, 120.75, 12,   1320,   55.2,59.8]
 }
 
