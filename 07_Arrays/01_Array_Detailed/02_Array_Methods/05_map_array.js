@@ -5,8 +5,9 @@
 // new array based on original array
 
 // map() accepts an array loop over that array and in each iteration it
-// applies the callback function code on the every element of original array, and returns new array containing the results of applying on 
-//opration on all original array elements.
+// applies the callback function code on the every element of original array, and 
+// returns new array containing the results of applying on 
+// opration on all original array elements.
 
 // we can say that it maps the original array into new array
 
