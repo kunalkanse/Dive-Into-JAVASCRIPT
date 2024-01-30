@@ -4,7 +4,7 @@
 // as the name suggest we can use find() method to retrieve one 
 // element of array based on a condition specified
 
-// find() method also accepts callback function.
+// find() method also accepts callback function. 
 // which will be called as the method starts loop over the array.
  
 // find() returns the first element of array which will satisfy the condition
