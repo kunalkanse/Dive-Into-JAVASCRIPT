@@ -3,7 +3,7 @@
 ///////////////////////////////////////////////////////////
 
 // In many scenarios we store result into a another 
-//variable individually after performing operations.
+//variable individually after performing operations. 
 
 // However we can also do it all in one go.  
 
