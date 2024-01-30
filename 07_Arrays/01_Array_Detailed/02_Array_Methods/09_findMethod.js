@@ -6,7 +6,7 @@
 
 // find() method also accepts callback function.
 // which will be called as the method starts loop over the array.
-
+ 
 // find() returns the first element of array which will satisfy the condition
 
 // find() is similar to filter() but the major diffrence is
