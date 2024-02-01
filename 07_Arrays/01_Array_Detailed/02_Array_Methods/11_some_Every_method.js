@@ -16,7 +16,7 @@ const transactions = [500, 80, 30, 170, -250, 40, -230, 120];
 // to check any withdrawl in happened in the transactions
 console.log(transactions.includes(-250));   // true
 // or
-
+ 
 const anyWithdrawl = transactions.some(amt => amt < 0);
 console.log(anyWithdrawl);    // true
 
