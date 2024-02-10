@@ -12,7 +12,7 @@ const user = {
         //   }
     }
 
-}
+} 
 
 // user.welcomeMessage();  // hitesh , welcome to website
 user.username = "sam"
