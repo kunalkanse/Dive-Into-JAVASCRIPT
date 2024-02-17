@@ -13,7 +13,7 @@ const passenger = {
 const checIn = function (flightNum, passenger) {
     flightNum = 'LH989';
     passenger.name = 'mr.' + passenger.name;
-
+ 
     // if (passenger.passport === 123645798) {
     //     alert('Check in');
     // } else {
