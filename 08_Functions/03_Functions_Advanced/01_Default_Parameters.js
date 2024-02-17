@@ -10,7 +10,7 @@ const CreateBooking = function (flightNo, noOfPassegers = 1, price = 3000) {
         flightNo,
         noOfPassegers,
         price
-    };
+    }; 
 
     console.log(booking);
     bookings.push(booking)  // push object into array
