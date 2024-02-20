@@ -19,7 +19,7 @@
 const close = function () {
     console.log('closing...!!!');
 }
-// document.getElementById('demo').addEventListener('click', close);
+document.getElementById('demo').addEventListener('click', close);
 
 ////////////////////////////////////////////////////////////////////////////
 // close() function is called as callback function because it will be called later
