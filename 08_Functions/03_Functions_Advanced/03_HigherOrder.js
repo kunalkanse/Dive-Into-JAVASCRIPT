@@ -9,7 +9,7 @@
 
 ////////////////////////////////////////////////////////////////////////////
 
-// we can pass functions as arguments to other functions.
+// we can pass functions as arguments to other functions. 
 // The function which passed as a argument is called callback function AND
 // The function Which accept this function as parameter is Hoghr Order function
 
