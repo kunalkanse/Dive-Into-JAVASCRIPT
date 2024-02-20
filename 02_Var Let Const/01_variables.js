@@ -3,11 +3,11 @@ const accountId = 144553;
 let accountEmail = "kanseks008@gmail.com";
 var accountPassword = "123456";
 
-accountCity = "pune";   // loosely typed language
+accountCity = "pune";   // loosely typed language, datatype not required
 
 let accountState;
 
-// Not Allowed for const
+// re-initialization Not Allowed for const
 /* 
     accountId = 2;
 */
