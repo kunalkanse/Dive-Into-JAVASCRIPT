@@ -12,7 +12,7 @@ const upperFirstWord = function (str) {
 }
 
 // Higher order function
-function transform(str, fn) {
+function transform(str, fn) { 
     const newStr = fn(str);
     return newStr;
 }
