@@ -9,7 +9,7 @@ const airIndia = {
         console.log(`${passenger} booked a seat on ${this.airLine} Flight ${this.iataCode}${flightNo}`);
 
         this.bookings.push(({ flight: `${this.iataCode}${flightNo}`, passenger: passenger }))
-    },
+    },     
 };
 
 airIndia.book(423, 'kunal kanse');
