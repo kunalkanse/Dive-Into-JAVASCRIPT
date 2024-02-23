@@ -14,7 +14,7 @@ const airIndia = {
     airLine: 'Air India',
     iataCode: 'AI',
     bookings: [],
-
+ 
     //latest syntax
     book(flightNo, passenger) {
         console.log(`${passenger} booked a seat on ${this.airLine} Flight ${this.iataCode}${flightNo}`);
