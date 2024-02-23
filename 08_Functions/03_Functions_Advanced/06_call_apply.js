@@ -11,7 +11,7 @@ const airIndia = {
         this.bookings.push(({ flight: `${this.iataCode}${flightNo}`, passenger: passenger }))
     },     
 };
-
+ 
 airIndia.book(423, 'kunal kanse');
 airIndia.book(356, 'aniket sapkal');
 console.log(airIndia);
