@@ -8,7 +8,7 @@
  from an inner function. 
  Lexical scope is a concept in that determines the accessibility of variables and 
  functions within a program.
- So, The lexical environment is where the inner variable or functions access the data of parent.
+ So, The lexical environment is where the inner variable or functions access the data of parent. 
 
  DEFINATION : 2 =>
  A closure gives a function access to all the variables ot its parent
