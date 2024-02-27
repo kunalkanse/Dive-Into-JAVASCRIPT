@@ -5,7 +5,7 @@
  A closure is the combination of a function bundled together (enclosed)
  with references to its surrounding state (the lexical environment). 
  In other words, a closure gives you access to an outer function's scope 
- from an inner function.
+ from an inner function. 
  Lexical scope is a concept in that determines the accessibility of variables and 
  functions within a program.
  So, The lexical environment is where the inner variable or functions access the data of parent.
