@@ -8,7 +8,7 @@ let emp = {
 }
 
 // Object.freeze(emp)
-Object.seal(emp)
+Object.seal(emp) 
 
 /*
 freeze makes an object completely immutable, while Object. seal allows existing properties to be 
