@@ -1,4 +1,7 @@
 
+// Hoisting is the default behavior in JavaScript where declarations of variables and 
+//functions are moved to the top of their respective scopes during the compilation phase
+
 console.log(firstName); //undefined
 // console.log(job);
 // console.log(age);
