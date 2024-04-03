@@ -11,7 +11,7 @@ console.log();
 
 const hotel = {
     name: 'annapurna bhojnalay',
-    location: '3 hatti chaowk,Baramati',
+    location: '3 hatti chaowk,Baramati', 
     categories: ['maharashtrian', 'south', 'panjabi', 'chinease'],
     starterMenu: ['masala papad', 'manchurian', 'kabab', 'chicken lollypop'],
     mainMenu: ['chicken Thali', 'paneer masala', 'machhi thali', 'veg angara'],
