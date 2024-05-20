@@ -3,8 +3,8 @@
 //functions are moved to the top of their respective scopes during the compilation phase
 
 console.log(firstName); //undefined
-// console.log(job);
-// console.log(age);
+// console.log(job);    // cannot access 'job' before initialisation
+// console.log(age);     //cannot access 'age' before initialisation
 
 var firstName = 'Kunal';
 
